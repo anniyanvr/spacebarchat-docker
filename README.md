@@ -1,5 +1,5 @@
 > [!IMPORTANT]
-Docker images from this repo are outdated and deprecated. Up to date images are in the `spacebarchat/server` repository. Please see https://docs.spacebar.chat/setup/server/docker on how to run that instead.
+Docker images from this repo are outdated and deprecated. Up to date images are in the `spacebarchat/server` repository (here's a list: https://github.com/orgs/spacebarchat/packages). Please see https://docs.spacebar.chat/setup/server/docker on how to run that instead.
 
 # Spacebar Server Docker
 
